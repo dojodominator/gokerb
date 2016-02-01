@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/dojodominator/asn1"
+	"github.com/jmckaskill/asn1"
 )
 
 // GSS requests are a bit screwy in that they are partially asn1 The format
